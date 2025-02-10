@@ -1,2 +1,3 @@
-# Assignment-Object-Oriented-Programming
-This repository contains my answers for some of my assignments for COMP6820001 - Object Oriented Programming Course. Please read README.
+Notes
+-----
+All of these codes work as intended, but they are not conventionally made (they smell). It is because I had not learnt about convention and code smell at the time I made these assignments. Thank you for understanding.
